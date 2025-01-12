@@ -1,3 +1,10 @@
-str = input("enter the first name:")
+list=[1,2,3,2,1]
+ 
 
-# print(len(str))
+# copy1=list.copy()
+# copy1.reverse()
+
+# if(copy1 == list):
+#     print("Palindrome")
+# else:
+#     print("Not a Palindrome")
