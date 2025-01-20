@@ -1,10 +1,8 @@
-list=[1,2,3,2,1]
+
+# cities = ["ghazipur","varanasi","ballia","gorakhpur","prayagraj"]
+
+# def print_inline(list):
+#     for items in list:
+#         print(items,end=" ")
  
-
-# copy1=list.copy()
-# copy1.reverse()
-
-# if(copy1 == list):
-#     print("Palindrome")
-# else:
-#     print("Not a Palindrome")
+# print_inline(cities)
